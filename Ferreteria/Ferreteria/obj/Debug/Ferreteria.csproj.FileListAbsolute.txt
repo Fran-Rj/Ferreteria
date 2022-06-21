@@ -1,0 +1,31 @@
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\EntityFramework.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\EntityFramework.xml
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.AssemblyReference.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Properties.Resources.resources
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Inventario.resources
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.GenerateResource.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CopyComplete
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Español\Desktop\+UNAB+\Ciclo - III\Program I\Visual Studio 2019\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\EntityFramework.dll
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\EntityFramework.xml
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.AssemblyReference.cache
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Properties.Resources.resources
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Inventario.resources
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.GenerateResource.cache
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.csproj.CopyComplete
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Español\Documents\GitHub\Ferreteria\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb

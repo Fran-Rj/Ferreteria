@@ -1,0 +1,68 @@
+﻿@model WebApp_Ferreteria.Models.Herramienta
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<br />
+<h2>Detalles</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.existencias)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.existencias)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <button class="btn btn-primary" id="btnEditar">
+        @Html.ActionLink("Editar", "Edit", new { id = Model.id })
+    </button>
+    <button class="btn btn-warning" id="btnVolver">
+        @Html.ActionLink("Volver", "Index")
+    </button>
+</div>
+
+<style>
+    #btnEditar a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+
+    #btnVolver a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+</style>

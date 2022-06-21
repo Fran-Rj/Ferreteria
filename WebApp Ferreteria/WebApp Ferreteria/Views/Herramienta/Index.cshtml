@@ -1,0 +1,75 @@
+﻿@model IEnumerable<WebApp_Ferreteria.Models.Herramienta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<h2 align="center">Inventario</h2>
+<br />
+<table class="table table-bordered table-striped">
+    <tr>
+        <th >
+            Nombre
+        </th>
+        <th>
+            Precio
+        </th>
+        <th>
+            Marca
+        </th>
+        <th >
+            Cantidad
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+
+    @foreach (var item in Model) 
+     {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.existencias)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+                @Html.ActionLink("Detalles", "Details", new { id=item.id }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id=item.id })
+            </td>
+        </tr>
+     }
+</table>
+<button type="button" class="btn btn-success">
+    @Html.ActionLink("Nuevo", "Create")
+</button>
+
+<style>
+    table tr th {
+        text-align: center;
+    }
+
+    table tbody tr td {
+        text-align: center;
+    }
+
+    button a {
+        color: black;
+        font-weight: bold;
+    }
+
+    button a:hover {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+</style>
